@@ -25,3 +25,6 @@ Analyze customer demographics and purchasing behavior to  understand the target 
 * Yearly Amount Spent by Average Time: Scatter plot showing how yearly spending correlates with average customer engagement time, segmented by clusters.
 
 * Average Amount Spent by Duration: Line chart comparing average spending with time spent on different platforms (app vs. website).
+
+![](images/3rd.JPG)
+  
