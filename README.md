@@ -1,7 +1,7 @@
 # E-commerce Customer Analysis
 Analyze customer demographics and purchasing behavior to  understand the target audience.
  ## Page 1 – Demographics Overview
-![Demographics Dashboard](./image/1st.JPG)
+![Demographics Dashboard](image/1st.JPG)
  
 * KPI Tiles: Present high-level metrics such as total number of customers, average spending, average membership duration, and average customer time.
 
