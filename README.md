@@ -15,7 +15,9 @@ Analyze customer demographics and purchasing behavior to  understand the target 
 
 * Customers by State and Address Type: Bar chart breaking down customers by state and their address type (e.g., Military or Standard).
 
-# Page 2 – Behavior Analysis
+## Page 2 – Behavior Analysis
+
+![Behavior Dashboard](images/2ndd.JPG)
 * Customers by Address Type: Donut chart showing the distribution of customers based on address type.
 
 * Membership Duration by Yearly Amount Spent: Line chart examining the relationship between the length of membership and annual spending.
